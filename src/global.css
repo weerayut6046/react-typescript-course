@@ -1,0 +1,17 @@
+.myTitle {
+    color: orange;
+    font-size: 3rem;
+}
+
+.menuActive {
+    background-color: deepskyblue;
+}
+
+.rbc-row-content {
+    position: relative;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-user-select: none;
+    z-index: 0 !important;
+}
