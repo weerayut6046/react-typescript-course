@@ -71,10 +71,7 @@ import { useNavigate } from 'react-router-dom';
         bg={useColorModeValue('gray.50', 'gray.800')}>
         <Stack spacing={8} mx={'auto'} maxW={'lg'} py={12} px={6}>
           <Stack align={'center'}>
-            <Heading fontSize={'4xl'}>Log In</Heading>
-            <Text fontSize={'lg'} color={'gray.600'}>
-              to enjoy all of our cool <Link color={'blue.400'}>features</Link> ✌️
-            </Text>
+            <Heading fontSize={'4xl'}>ลงชื่อเข้าใช้งาน</Heading>
           </Stack>
           <Box
             rounded={'lg'}
